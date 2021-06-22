@@ -8,12 +8,12 @@ html{
 }
 .he{
     text-align: center;
-    font-size: 15px;
+    font-size: 25px;
     color: rgb(68, 141, 224);
 }
 .mc{
     color:rgb(60, 114, 60);
-    font-size: 15px;
+    font-size: 25px;
 }
 #img{
     width: 200;
@@ -27,7 +27,7 @@ body{
     background-color: honeydew;
 }
 p{
-    font-size: 10px;
+    font-size: 20px;
     font-weight: bold;
 
 }
@@ -37,4 +37,5 @@ ul{
 li{
     text-align:justify;
     font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    font-size:medium;
 }
